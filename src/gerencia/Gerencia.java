@@ -15,6 +15,6 @@ public class Gerencia {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Utilizando o GIT através do Netbeans.");
+        System.out.println("Utilizando o GIT através do Netbeans 7.2.1");
     }
 }
